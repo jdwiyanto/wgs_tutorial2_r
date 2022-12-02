@@ -38,7 +38,7 @@ You can install RStudio Desktop [here](https://posit.co/download/rstudio-desktop
 
 ## Accessing your working directory
 
-Go to my github page to download the "input" folder and the "r_tutorial.Rproj" file [here](https://github.com/jdwiyanto/wgs_pangenome/tree/main/r_tutorial_github). Make sure the "input" folder and the Rproj file is placed in the same path. Double-click on the "r_tutorial.Rproj" file. This will launch RStudio, where we can start working on our WGS output files.
+Go to my github page to download the "input" folder and the "r_tutorial.Rproj" file [here](https://github.com/jdwiyanto/wgs_tutorial2_r/tree/main/rproject). Make sure the "input" folder and the Rproj file is placed in the same path. Double-click on the "r_tutorial.Rproj" file. This will launch RStudio, where we can start working on our WGS output files.
 
 ## Creating a new R script 
 
