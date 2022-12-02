@@ -1,0 +1,6 @@
+Sample	AAC3_AGly	ANT3''_AGly	APH3''_AGly	APH6_AGly	CTX-M_Bla	Dfr_Tmt	Erm_MLS	MphA_MLS	StrA_AGly	StrB_AGly	Sul_Sul	TEM_Bla	TetA_Tet
+clinA	-	-	-	-	CTX-M-27_549?	-	-	-	-	-	-	-	-
+clinB	-	-	aph3''-Ib_146*	aph6-Id.v2_172*	CTX-M-27_549?	-	-	-	strA.v1_2409*	strB.v1_2410*	sul2_2284	-	tetA.v1_2317?
+commA	aac3-IId_16*	aadA5_114	aph3''-Ib_146*	aph6-Id.v2_172*	CTX-M-27_549	dfrA17_2369	-	mphA_2174	strA.v1_2409*	strB.v1_2410*	sul1_2283*	TEM-206_1678*	tetA.v1_2317
+commB	aac3-IId_16*	aadA5_114	aph3''-Ib_146*	aph6-Id.v2_172*	CTX-M-27_549	dfrA17_2369	ermT_2152*	mphA_2174	strA.v1_2409*	strB.v1_2410*	sul1_2283	TEM-206_1678*	tetA.v1_2317
+commC	aac3-IId_16*	aadA5_114	aph3''-Ib_146*	aph6-Id.v2_172*	CTX-M-27_549	dfrA17_2369	-	mphA_2174	strA.v1_2409*	strB.v1_2410*	sul1_2283	TEM-198_1654*	tetA.v1_2317

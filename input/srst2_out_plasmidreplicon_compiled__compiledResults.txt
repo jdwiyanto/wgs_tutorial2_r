@@ -1,0 +1,6 @@
+Sample	F	FIA	FIB
+clinA	-	iteron_FIA_iteron	repA_FIB_repA*?
+clinB	-	iteron_FIA_iteron?	repA_FIB_repA*
+commA	FrepB_F_FrepB*	-	repA_FIB_repA*?
+commB	FrepB_F_FrepB*?	-	repA_FIB_repA*?
+commC	-	-	repA_FIB_repA*?
