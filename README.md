@@ -1,4 +1,4 @@
-# Step-by-step guide to screen for genes and conduct pan-genome comparison from whole-genome sequence data in Ubuntu
+# Step-by-step guide to visualise whole-genome sequence data output using R
 
 This repository contains the source code to the tutorial contents used for the on-site workshop on whole-genome sequence data processing and analysis conducted at Universiti Malaya, 30-1 December 2022. 
 
